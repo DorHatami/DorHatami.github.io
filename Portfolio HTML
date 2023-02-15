@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Website for portfolio</title>
+</head>
+<body style="background-color:lightblue">
+
+<div style="width:70%; margin:auto">
+
+<h1 style="text-align:center; font-family:monaco; margin-top:150px"> Portfolio</h1>
+
+<p style="text-align:center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<table style="width:100%" border=1>
+	<tr>
+    	<td style="width:50%"> 
+        	d1568
+        </td>
+        <td style="width:50%"> 
+        	d2
+        </td>
+    </tr>
+    <tr> 
+    	<td> 
+        	h1
+        </td>
+        <td> 
+        	h2
+        </td>
+    </tr>
+</table>
+
+</div>
+
+</body>
+</html>
+

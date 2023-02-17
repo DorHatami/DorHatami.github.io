@@ -6,15 +6,27 @@
 
 
 
-<body style="background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%)">
+<body style="background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%)">
 
 <div style="width:70%; margin:auto">
 
-<h1 style="text-align:center; font-family:Didot; margin-top:150px"> Portfolio</h1>
+<h1 style="text-align:center; font-family:Didot; margin-top:150px; color:"> Portfolio</h1>
 
-<p style="text-align:center; font-family:didot">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p style="text-align:center; font-family:didot; color:">
+This website is written with HTML. This is the first website I've ever written and I found it really fun to do! After working with blender over the summer, I really liked it so I made some small projects at home aswell. 
+</p>
 
+<div style="display:flex; margin-top:50px">
+	<div style="width:50%; padding:2px"><img src="https://DorHatami.github.io/images/Blender_icecream.png" style="max-width:100%"/></div>
+	<div style="width:50%; padding:2px"><img src="https://DorHatami.github.io/images/Blender_waffle.png" style="max-width:100%"/></div>
+</div>
+<div style="display:flex">
+	<div style="width:50%; padding:2px"><img src="https://DorHatami.github.io/images/Blender_icecream.png" style="max-width:100%"/></div>
+	<div style="width:50%; padding:2px"><img src="https://DorHatami.github.io/images/Blender_icecream.png" style="max-width:100%"/></div>
 
+</div>
+
+<!--
 <table style="width:100%; Margin-top:100px" border=1">
 	<tr>
     
@@ -38,7 +50,7 @@
         
     </tr>
 </table>
-
+-->
 
 </div>
 

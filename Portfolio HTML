@@ -17,14 +17,28 @@ This website is written with HTML. This is the first website I've ever written a
 </p>
 
 <div style="display:flex; margin-top:50px">
-	<div style="width:50%; padding:2px"><img src="https://DorHatami.github.io/images/Blender_icecream.png" style="max-width:100%"/></div>
-	<div style="width:50%; padding:2px"><img src="https://DorHatami.github.io/images/Blender_waffle.png" style="max-width:100%"/></div>
+	
+    <div style="width:50%; padding:2px">
+    	<img 
+       src="https://DorHatami.github.io/images/Blender_icecream.png" 		style="max-width:100%; border-radius:7px"/></div>
+	
+    <div style="width:50%; padding:2px">
+    	<img
+       src="https://DorHatami.github.io/images/Blender_waffle.png" 	 		style="max-width:100%; border-radius:7px"/></div>
 </div>
-<div style="display:flex">
-	<div style="width:50%; padding:2px"><img src="https://DorHatami.github.io/images/Blender_icecream.png" style="max-width:100%"/></div>
-	<div style="width:50%; padding:2px"><img src="https://DorHatami.github.io/images/Blender_icecream.png" style="max-width:100%"/></div>
 
+
+<div style="display:flex">
+
+	<div style="width:50%; padding:2px">
+    	<img
+       src="https://DorHatami.github.io/images/Procreate_hand.jpg" 		style="max-width:100%; border-radius:7px"/></div>
+	
+    <div style="width:50%; padding:2px">
+    	<img
+       src="https://DorHatami.github.io/images/Blender_icecream.png" 		style="max-width:100%; border-radius:7px"/></div>
 </div>
+
 
 <!--
 <table style="width:100%; Margin-top:100px" border=1">
@@ -56,4 +70,5 @@ This website is written with HTML. This is the first website I've ever written a
 
 </body>
 </html>
+
 

@@ -13,7 +13,9 @@
 <h1 style="text-align:center; font-family:Didot; margin-top:150px; color:"> Portfolio</h1>
 
 <p style="text-align:center; font-family:didot; color:">
-This website is written with HTML. This is the first website I've ever written and I found it really fun to do! After working with blender over the summer, I really liked it so I made some small projects at home aswell. 
+This website is written with <strong>HTML</strong> and <strong>CSS</strong>. This is the first website I've ever written and I found it really fun to do! <br/>
+After working with <strong>Blender</strong> over the summer, I really liked it so I made some small projects at home aswell. <br/> 
+I also enjoy drawing with <strong>ProCreate</strong>.
 </p>
 
 <div style="display:flex; margin-top:50px">
@@ -36,7 +38,7 @@ This website is written with HTML. This is the first website I've ever written a
 	
     <div style="width:50%; padding:2px">
     	<img
-       src="https://DorHatami.github.io/images/Blender_icecream.png" 		style="max-width:100%; border-radius:7px"/></div>
+       src="https://DorHatami.github.io/images/PortfolioApp.png" 		style="max-width:100%; border-radius:7px"/></div>
 </div>
 
 
@@ -70,5 +72,4 @@ This website is written with HTML. This is the first website I've ever written a
 
 </body>
 </html>
-
 
